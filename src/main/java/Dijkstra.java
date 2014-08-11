@@ -3,9 +3,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
 
-/**
- * Created by wlane on 8/11/14.
- */
 public class Dijkstra
 {
     public static void computePaths(Vertex source)
